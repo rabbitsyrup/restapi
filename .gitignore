@@ -37,4 +37,4 @@ out/
 .vscode/
 
 ### Configs ###
-**/src/main/resources/config/
+config/
